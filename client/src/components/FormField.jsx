@@ -36,4 +36,3 @@ const FormField = ({ labelName, type, name, placeholder, value, handleChange, is
 }
 
 export default FormField
-// Start at 48:20
